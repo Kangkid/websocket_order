@@ -8,4 +8,4 @@ spec:
     - name: revision
       value: master
     - name: url
-      value: https://github.com/Kangkid/websocket_order/tree/master/get_shop_info
+      value: https://github.com/Kangkid/websocket_order/get_shop_info.git
